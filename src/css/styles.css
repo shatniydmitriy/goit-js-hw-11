@@ -28,7 +28,7 @@ body {
     justify-content: center;
     align-items: center;
     gap: 20px;
-    padding-top: 15px;
+    /* padding-top: 15px; */
 }
 
 .search-query {
